@@ -27,5 +27,5 @@
 
 ### Projects
 
-- [ ] Investigating Netflix Movies
+- [x] Investigating Netflix Movies
 - [ ] Exploring NYC Public School Test Result Scores
