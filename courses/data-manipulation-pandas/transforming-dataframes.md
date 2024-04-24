@@ -1,4 +1,4 @@
-# Pandas
+# Transforming DataFrames
 
 ## Inspecting a DataFrame
 
