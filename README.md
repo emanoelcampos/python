@@ -9,7 +9,7 @@
 - [x] Introduction to Python
 - [x] Intermediate Python
 - [ ] Data Manipulation with Pandas
-- [ ] Python Data Science Toolbox (Part 1)
+- [x] Python Data Science Toolbox (Part 1)
 - [ ] Python Data Science Toolbox (Part 2)
 - [ ] Data Types for Data Science in Python
 - [ ] Writing Efficient Python Code
