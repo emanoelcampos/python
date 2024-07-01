@@ -1,31 +1,16 @@
 # Python 
 
-## Python Developer - DataCamp Career Track
-
-**71hrs - 18 courses - 2 projects**
+## Python Data Fundamentals - DataCamp Skill Track
 
 ### Courses
 
 - [x] Introduction to Python
 - [x] Intermediate Python
-- [ ] Data Manipulation with Pandas
-- [x] Python Data Science Toolbox (Part 1)
-- [ ] Python Data Science Toolbox (Part 2)
-- [ ] Data Types for Data Science in Python
-- [ ] Writing Efficient Python Code
-- [ ] Working with Dates and Times in Python
-- [ ] Regular Expressions in Python
-- [ ] Web Scraping in Python
-- [ ] Writing Functions in Python
-- [ ] Data Structures and Algorithms in Python
-- [ ] Introduction to Shell
-- [ ] Introduction to Git
-- [ ] Software Engineering Principles in Python
-- [ ] Developing Python Packages
-- [ ] Introduction to Test in Python
-- [ ] Object-Oriented Programming in Python
+- [x] Data Manipulation with Pandas
+- [x] Introduction to Functions in Python
+- [x] Python Toolbox
+- [x] Python Data Types
 
 ### Projects
 
 - [x] Investigating Netflix Movies
-- [ ] Exploring NYC Public School Test Result Scores
